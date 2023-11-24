@@ -1,2 +1,2 @@
 # google-clone
-Clon de google
+This is my first project: a google clone interface
